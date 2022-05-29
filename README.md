@@ -1,4 +1,7 @@
 # Jump2Survive - The Sequel
+[![Lilio](https://img.shields.io/badge/Lilio-Play-green)](https://liluo.io/neociber/jump2survive---the-sequel)
+[![Netlify](https://img.shields.io/badge/netlify-Play-blue)](https://subtle-wisp-6a6979.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b0a4271-521d-45e5-b1c7-e83abfcfcc1b/deploy-status)](https://app.netlify.com/sites/subtle-wisp-6a6979/deploys)
 
 ![Image](https://github.com/Neo-Ciber94/GDevelop-Jump2Survive/blob/main/images/game.png)
 
@@ -6,6 +9,7 @@ A GDevelop game creating following the Youtube tutorial of [DocenTek](https://ww
 
 ## Try it
 - Lilio: https://liluo.io/neociber/jump2survive---the-sequel
+- Netlify: https://subtle-wisp-6a6979.netlify.app
 
 ## Features
 Although the game was following a tutorial there are some changes that were made, these are the features:
