@@ -5,7 +5,7 @@
 
 ![Image](https://github.com/Neo-Ciber94/GDevelop-Jump2Survive/blob/main/images/game.png)
 
-A GDevelop game creating following the Youtube tutorial of [DocenTek](https://www.youtube.com/watch?v=YjWIfsCkXz0&list=PL3iamrHNJqUeOhQi9vSfJEbCLUcv1PpD9&index=1&ab_channel=DocenTEK).
+A GDevelop game created following the Youtube tutorial of [DocenTek](https://www.youtube.com/watch?v=YjWIfsCkXz0&list=PL3iamrHNJqUeOhQi9vSfJEbCLUcv1PpD9&index=1&ab_channel=DocenTEK).
 
 ## Try it
 - Lilio: https://liluo.io/neociber/jump2survive---the-sequel
