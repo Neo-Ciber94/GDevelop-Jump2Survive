@@ -4,6 +4,9 @@
 
 A GDevelop game creating following the Youtube tutorial of [DocenTek](https://www.youtube.com/watch?v=YjWIfsCkXz0&list=PL3iamrHNJqUeOhQi9vSfJEbCLUcv1PpD9&index=1&ab_channel=DocenTEK).
 
+## Try it
+- Lilio: https://liluo.io/neociber/jump2survive---the-sequel
+
 ## Features
 Although the game was following a tutorial there are some changes that were made, these are the features:
 - 3 HP and 3 Max HP
